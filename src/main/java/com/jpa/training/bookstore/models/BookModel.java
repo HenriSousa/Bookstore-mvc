@@ -21,7 +21,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Entity
-@Table(name="TB_Book")
+@Table(name="TB_BOOK")
 @Getter
 @Setter
 public class BookModel implements Serializable {

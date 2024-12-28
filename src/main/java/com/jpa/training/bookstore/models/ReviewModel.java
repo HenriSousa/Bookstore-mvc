@@ -17,7 +17,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Entity
-@Table(name = "TB_Review")
+@Table(name = "TB_REVIEW")
 @Getter
 @Setter
 public class ReviewModel implements Serializable {

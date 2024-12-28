@@ -19,7 +19,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Entity
-@Table(name="TB_Author")
+@Table(name="TB_AUTHOR")
 @Getter
 @Setter
 public class AuthorModel implements Serializable {

@@ -19,7 +19,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Entity
-@Table(name = "TB_Publisher")
+@Table(name = "TB_PUBLISHER")
 @Getter
 @Setter
 public class PublisherModel implements Serializable {
